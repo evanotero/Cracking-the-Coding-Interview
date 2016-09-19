@@ -19,5 +19,4 @@ public class StringCompressionTest {
         assertEquals(" 1", StringCompression.stringCompression(" "));
         assertEquals("", StringCompression.stringCompression(""));
     }
-
 }
