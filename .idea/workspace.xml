@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapter_1/Question1_4/PalindromePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateMatrixTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateMatrixTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter_1/Question1_7/RotateMatrixTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,12 +165,12 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_6/StringCompressionTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_2/CheckPermutation.java" />
-        <option value="$PROJECT_DIR$/src/Chapter_1/Question1_4/PalindromePermutation.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_4/PalindromePermutationTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_8/ZeroMatrix.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_9/StringRotation.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_7/RotateMatrix.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Question1_7/RotateMatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter_1/Question1_4/PalindromePermutation.java" />
       </list>
     </option>
   </component>
@@ -1062,16 +1062,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Question1_4/PalindromePermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter_1/Question1_2/CheckPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1130,9 +1120,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter_1/Question1_7/RotateMatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Question1_4/PalindromePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

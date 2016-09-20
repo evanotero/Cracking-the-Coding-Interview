@@ -12,13 +12,17 @@ public class PalindromePermutation {
     public static boolean permOfPalindrome(String s) {
         s = s.replaceAll("\\s+", "");
         int length = s.length(), pairs = 0;
+
         char[] letters = s.toLowerCase().toCharArray();
         Arrays.sort(letters);
-        for (int i = 0; i < length; i++)
+
+        for (int i = 0; i < length; i++) {
             if (i + 1 < length && letters[i] == letters[i + 1]) {
                 i++;
                 pairs++;
             }
+        }
+
         return pairs == length / 2;
     }
 }
