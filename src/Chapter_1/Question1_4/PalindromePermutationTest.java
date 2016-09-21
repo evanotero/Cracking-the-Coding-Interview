@@ -21,5 +21,4 @@ public class PalindromePermutationTest {
         assertTrue(PalindromePermutation.permOfPalindrome("a"));
         assertTrue(PalindromePermutation.permOfPalindrome(""));
     }
-
 }
