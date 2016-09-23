@@ -7,4 +7,15 @@
 package Chapter_1.Question1_9;
 
 public class StringRotation {
+    public static boolean isRotation(String s1, String s2) {
+        if (s1.length() != s2.length())
+            return false;
+
+        String combined = s1 + s1;
+        return isSubstring(combined, s2);
+    }
+
+    private static boolean isSubstring(String s1, String s2) {
+        return s1.contains(s2);
+    }
 }
